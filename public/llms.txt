@@ -1,0 +1,107 @@
+# אטליז עמוס — Generative Engine Optimization Map
+
+> A butcher shop business seeking an online presence. The specific identity, personality, and unique characteristics of the shop are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://-5204a58b.zappy5.app
+מחפשים אטליז בקרבתכם? באטליז עמוס תמצאו בשר איכותי, טרי ומגוון נתחים שיהפכו כל ארוחה לחגיגה. היכנסו עכשיו לגלות מבצעים שווים!
+
+### שירותים
+https://-5204a58b.zappy5.app/services
+מקצבים מנוסים, נתחים מותאמים אישית ואריזות ואקום לאיכות שאין שנייה לה. כל מה שהבשר שלכם צריך, במקום אחד. בואו לקבל שירות של אלופים!
+
+### אודות
+https://-5204a58b.zappy5.app/about
+דורות של מסורת, אהבה לבשר איכותי ומחויבות בלתי מתפשרת לטריות. הכירו את הצוות שמביא לכם את הנתחים הכי טובים בעיר, בכל יום מחדש.
+
+### צור קשר
+https://-5204a58b.zappy5.app/contact
+רוצים להזמין מראש, לשאול על נתח מיוחד או סתם להגיד שלום? אנחנו כאן בשבילכם! מלאו את הפרטים ונחזור אליכם עם חיוך והמון בשר טוב.
+
+### Products
+https://-5204a58b.zappy5.app/products
+המוצרים שלנו - אטליז עמוס
+
+### Cart
+https://-5204a58b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-5204a58b.zappy5.app/checkout
+תשלום
+
+### Login
+https://-5204a58b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-5204a58b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-5204a58b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-5204a58b.zappy5.app/product/:slug
+פרטי המוצר - אטליז עמוס
+
+### Category
+https://-5204a58b.zappy5.app/category/:slug
+מוצרים - אטליז עמוס
+
+### תודה - אטליז עמוס
+https://-5204a58b.zappy5.app/thank-you
+אטליז עמוס - תודה - אטליז עמוס
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5204a58b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5204a58b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5204a58b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אטליז עמוס
+A butcher shop business seeking an online presence. The specific identity, personality, and unique characteristics of the shop are yet to be defined.
+
+## Target Audience
+- משפחות מקומיות
+- חובבי בישול
+- צרכנים שמודעים לבריאות
+- מסעדות ושירותי קייטרינג
+- מארגני אירועים
+- אוהבי בשר
+
+## Industry
+Butcher Shop
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5204a58b.zappy5.app/sitemap.xml
+- Robots: https://-5204a58b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5204a58b.zappy5.app/llms-full.txt
+- Products (JSON): https://-5204a58b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-5204a58b.zappy5.app/product-feed.xml
